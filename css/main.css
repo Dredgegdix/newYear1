@@ -43,7 +43,7 @@ img{
 }
 
 h1{
-    font-family: "BBH Bartle", sans-serif;
+    font-family: 'BBH Bartle', sans-serif;
     font-size: 100px;
     color: white;
 }
@@ -152,6 +152,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
