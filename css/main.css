@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap');
 
 .header_title{
     background: linear-gradient(to left, #4505f6, #401967);
@@ -42,7 +43,7 @@ img{
 }
 
 h1{
-    font-family: 'Rubik Mono One', monospace;
+    font-family: "BBH Bartle", sans-serif;
     font-size: 100px;
     color: white;
 }
@@ -151,6 +152,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
