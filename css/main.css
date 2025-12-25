@@ -35,6 +35,13 @@
     padding-top: 20px;
 }
 
+.section_photos{
+    background: rgb(254, 233, 233);
+    width: auto;
+    height: max-content;
+    padding-top: 20px;
+}
+
 img{
     max-width: 90%;
     margin-top: 20px;
@@ -100,5 +107,57 @@ p, span{
 .text2{
     font-family: "RubikMonoOne-Regular";
     text-align: center;
-    padding-top: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grid img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: opacity 0.3s;
+}
+
+.grid img:hover {
+    opacity: 0.8;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    z-index: 100;
+    text-align: center;
+}
+
+.modal img {
+    max-width: 90%;
+    max-height: 90%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
 }
