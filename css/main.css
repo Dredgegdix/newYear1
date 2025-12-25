@@ -7,17 +7,17 @@
 
 @font-face {
   font-family: "Pacifico-Regular";
-  src: url('./fonts/Pacifico-Regular.woff2');
+  src: url('/fonts/Pacifico-Regular.woff2');
 }
 
 @font-face {
   font-family: "Geologica-Variable";
-  src: url('./fonts/Cassandra.woff2');
+  src: url('/fonts/Cassandra.woff2');
 }
 
 @font-face {
   font-family: "RubikMonoOne-Regular";
-  src: url('./fonts/RubikMonoOne-Regular.woff2');
+  src: url('/fonts/RubikMonoOne-Regular.woff2');
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
@@ -164,6 +164,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
