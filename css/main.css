@@ -20,6 +20,8 @@
   src: url('./fonts/RubikMonoOne-Regular.woff2');
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 .header_title{
     background: linear-gradient(to left, #4505f6, #401967);
     display: flex;
@@ -90,7 +92,7 @@ p, span{
 }
 
 .textNewYear{
-    font-family: "Pacifico-Regular";
+    font-family: "Pacifico", cursive;
     font-size: 40px;
     text-align: center;
 }
@@ -162,6 +164,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
