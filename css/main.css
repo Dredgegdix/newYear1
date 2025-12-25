@@ -12,12 +12,12 @@
 
 @font-face {
   font-family: "Geologica-Variable";
-  src: url('../fonts/Geologica-VariableFont_CRSV\,SHRP\,slnt\,wght.ttf');
+  src: url('./fonts/Cassandra.woff2');
 }
 
 @font-face {
   font-family: "RubikMonoOne-Regular";
-  src: url('/newYear1/fonts/RubikMonoOne-Regular.woff2');
+  src: url('./fonts/RubikMonoOne-Regular.woff2');
 }
 
 .header_title{
@@ -162,6 +162,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
