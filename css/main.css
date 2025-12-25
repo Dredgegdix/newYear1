@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: "Pacifico-Regular";
-  src: url('./fonts/Pacifico-Regular.ttf');
+  src: url('./fonts/Pacifico-Regular.woff2');
 }
 
 @font-face {
@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "RubikMonoOne-Regular";
-  src: url('/newYear1/fonts/RubikMonoOne-Regular.ttf');
+  src: url('/newYear1/fonts/RubikMonoOne-Regular.woff2');
 }
 
 .header_title{
@@ -162,6 +162,7 @@ p, span{
     cursor: pointer;
 
 }
+
 
 
 
