@@ -1,0 +1,104 @@
+*{
+    margin: auto;
+    padding: 0;
+    font-family: "Geologica-Variable";
+    font-size: 24px;
+}
+
+@font-face {
+  font-family: "Pacifico-Regular";
+  src: url(/fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Geologica-Variable";
+  src: url(/fonts/Geologica-VariableFont_CRSV\,SHRP\,slnt\,wght.ttf);
+}
+
+@font-face {
+  font-family: "RubikMonoOne-Regular";
+  src: url(/fonts/RubikMonoOne-Regular.ttf);
+}
+
+.header_title{
+    background: linear-gradient(to left, #4505f6, #401967);
+    display: flex;
+    width: auto;
+    height: 100px;
+    justify-content: center;
+}
+
+.section_history{
+    background: rgb(254, 233, 233);
+    width: auto;
+    height: max-content;
+    padding-top: 20px;
+}
+
+img{
+    max-width: 90%;
+    margin-top: 20px;
+    border: 2px solid #4505f6;
+    border-radius: 30px;
+    box-shadow: 
+    0 0 10px #4505f6,
+    inset 0 0 10px #4505f6;
+}
+
+h1{
+    font-family: "RubikMonoOne-Regular";
+    font-size: 100px;
+    color: white;
+}
+
+.intro{
+    width: 80%;
+    height: max-content;
+}
+
+p, span{
+    background-image: linear-gradient(to bottom, #4505f6, #401967);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.line, .line2{
+    width: auto;
+    height: 5px;
+}
+
+.line{
+    background: linear-gradient(to right, #4505f6, #401967);
+    box-shadow: 
+    0 0 7px #4505f6,
+    inset 0 0 7px #4505f6;
+}
+
+.line2{
+    background: linear-gradient(to right, #adadad, #dec6f6);
+    box-shadow: 
+    0 0 7px #222279,
+    inset 0 0 7px #191936;
+}
+
+.textNewYear{
+    font-family: "Pacifico-Regular";
+    font-size: 40px;
+    text-align: center;
+}
+
+.before{
+    margin-top: 20px;
+    width: max-content;
+    padding: 10px;
+    height: auto;
+    border: 2px solid #4505f6;
+    border-radius: 30px;
+}
+
+.text2{
+    font-family: "RubikMonoOne-Regular";
+    text-align: center;
+    padding-top: 20px;
+}
