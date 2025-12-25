@@ -7,17 +7,17 @@
 
 @font-face {
   font-family: "Pacifico-Regular";
-  src: url(/fonts/Pacifico-Regular.ttf);
+  src: url('/fonts/Pacifico-Regular.ttf');
 }
 
 @font-face {
   font-family: "Geologica-Variable";
-  src: url(/fonts/Geologica-VariableFont_CRSV\,SHRP\,slnt\,wght.ttf);
+  src: url('/fonts/Geologica-VariableFont_CRSV\,SHRP\,slnt\,wght.ttf');
 }
 
 @font-face {
   font-family: "RubikMonoOne-Regular";
-  src: url(/fonts/RubikMonoOne-Regular.ttf);
+  src: url('/fonts/RubikMonoOne-Regular.ttf');
 }
 
 .header_title{
@@ -160,4 +160,5 @@ p, span{
     color: white;
     font-size: 40px;
     cursor: pointer;
+
 }
