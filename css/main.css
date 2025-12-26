@@ -19,21 +19,21 @@
 }
 
 .section_history{
-    background: url('https://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
+    background: url('http://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
     width: auto;
     height: max-content;
     padding-top: 20px;
 }
 
 .section_photos{
-    background: url('https://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
+    background: url('http://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
     width: auto;
     height: max-content;
     padding-top: 20px;
 }
 
 .section_videos{
-    background: url('https://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
+    background: url('http://img.freepik.com/premium-photo/illustration-theme-new-year-snowfall-3d-illustration_75780-166.jpg?semt=ais_hybrid&w=740');
     width: auto;
     height: max-content;
     padding-top: 20px;
@@ -188,4 +188,5 @@ iframe{
     inset 0 0 10px #4505f6;
 
 }
+
 
