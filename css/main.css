@@ -19,17 +19,38 @@
 }
 
 .section_history{
-    background: rgb(254, 233, 233);
+    background: url(/images/snow.png);
     width: auto;
     height: max-content;
     padding-top: 20px;
 }
 
 .section_photos{
-    background: rgb(254, 233, 233);
+    background: url(/images/snow.png);
     width: auto;
     height: max-content;
     padding-top: 20px;
+}
+
+.section_videos{
+    background: url(/images/snow.png);
+    width: auto;
+    height: max-content;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.section_end{
+    background: linear-gradient(to left, #4505f6, #401967);
+    width: auto;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.text_end{
+    color: grey;
 }
 
 img{
@@ -51,6 +72,7 @@ h1{
 .intro{
     width: 80%;
     height: max-content;
+    text-align: center;
 }
 
 p, span{
@@ -88,10 +110,15 @@ p, span{
 .before{
     margin-top: 20px;
     width: max-content;
+    max-width: 94%;
     padding: 10px;
     height: auto;
     border: 2px solid #4505f6;
     border-radius: 30px;
+}
+
+.citat{
+    padding-top: 20px;
 }
 
 .text2{
@@ -150,16 +177,13 @@ p, span{
     color: white;
     font-size: 40px;
     cursor: pointer;
-
 }
 
-
-
-
-
-
-
-
-
-
-
+iframe{
+    height: 400px;
+    margin-top: 20px;
+    border: 2px solid #4505f6;
+    box-shadow: 
+    0 0 10px #4505f6,
+    inset 0 0 10px #4505f6;
+}

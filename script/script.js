@@ -1,4 +1,3 @@
-// Простой массив с путями к фотографиям
 const photoPaths = [
     'photos/photo1.jpg',
     'photos/photo2.jpg',
